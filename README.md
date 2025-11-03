@@ -8,7 +8,7 @@ Developed as part of the **Naan Mudhalvan Project (2025)**
 ## 📂 Project Files
 
 - 📘 [Project Report (PDF)](./CRM%20Application%20For%20Jewel%20Management.pdf)
-- 🎥 [Sample Video](./Sample%20Video.mp4)
+- 🎥 [⬇ Download Sample Video](./Sample%20video.mp4)
 
 ---
 
